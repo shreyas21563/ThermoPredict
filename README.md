@@ -27,10 +27,10 @@ The Agri-food CO2 emission dataset  available on Kaggle has been curated by comb
 6) Lasso Regressor
 7) Ridge Regressor
 8) Support Vector Regression (SVR) with various kernels: 
-  - RBF kernel
-  - Linear kernel
-  - Polynomial kernel
-  - Sigmoid kernel
+      - RBF kernel
+      - Linear kernel
+      - Polynomial kernel
+      - Sigmoid kernel
 9) Artificial Neural Network (ANN):
   - Label-encoded data 
   - One-Hot encoded data
