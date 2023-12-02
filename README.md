@@ -14,8 +14,8 @@ The Agri-food CO2 emission dataset available on Kaggle (https://www.kaggle.com/d
 3) Outlier Removal:  Outliers were removed from the dataset because have the potential to significantly impact the dataset by introducing variations and deviations from its typical distribution.
 4) Feature Removal: Features exhibiting a high correlation, represented by a correlation coefficient greater than or equal to 0.99, were identified and removed. This step helps in improving the model’s interpretability and generalization.
 5) Encoding for Categorical Features: We used 2 techniques for encoding the categorical features:
-    ●   Label Encoding: Used Label Encoding to transform the categorical feature "Area" into a numerical format for modelling and analysis.
-    ●   One-Hot Encoding: The categorical feature "Area" was transformed using One-Hot encoding. This technique creates binary columns for each category, allowing machine learning algorithms to work effectively         with categorical data.
+    - Label Encoding: Used Label Encoding to transform the categorical feature "Area" into a numerical format for modelling and analysis.
+    - One-Hot Encoding: The categorical feature "Area" was transformed using One-Hot encoding. This technique creates binary columns for each category, allowing machine learning algorithms to work effectively         with categorical data.
 6) Standard Scaling: Standard scaling was used to standardize the data. Standardization helps ensure that features with different units and scales do not disproportionately influence the modeling process and helps machine learning algorithms converge faster.
 
 ## Machine Learning Models Used
