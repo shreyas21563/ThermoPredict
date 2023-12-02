@@ -34,7 +34,7 @@ The Agri-food CO2 emission dataset  available on Kaggle has been curated by comb
 9) Artificial Neural Network (ANN):
       - Label-encoded data 
       - One-Hot encoded data
-      The parameters that they used are the following: 
+      - The parameters that they used are the following: 
         - optimizer: Stochastic gradient descent
         - Number of Iterations: 500
         - Learning rate: 1e-4 (Low because there were high variations in the output with higher lr.
