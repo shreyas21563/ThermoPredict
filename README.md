@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# ThermoPredict
 
 ## Motivation
 The increasing global population demands growth in the agri-food industry. Understanding and addressing the environmental impact of the agri-food industry is crucial for mitigating climate change and developing sustainable practices within this sector.
